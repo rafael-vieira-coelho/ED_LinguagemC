@@ -1,5 +1,7 @@
 Aula 1 - Estruturas de Dados
 
+https://youtu.be/_YGUd953eAo
+
 Aula 2 - Listas Simplesmente Encadeadas
 
 Aula 3 - Listas Duplamente Encadeadas
