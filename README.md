@@ -8,6 +8,8 @@ https://youtu.be/Avn_2QyOJfQ
 
 Aula 3 - Listas Duplamente Encadeadas
 
+https://youtu.be/eHEnXz46iB0
+
 Aula 4 - Filas
 
 Aula 5 - Pilhas
