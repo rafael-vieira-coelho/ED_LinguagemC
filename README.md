@@ -12,6 +12,8 @@ https://youtu.be/eHEnXz46iB0
 
 Aula 4 - Filas
 
+https://youtu.be/yNQ22mIRG7M
+
 Aula 5 - Pilhas
 
 Aula 6 - Grafos
