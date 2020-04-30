@@ -16,6 +16,8 @@ https://youtu.be/yNQ22mIRG7M
 
 Aula 5 - Pilhas
 
+https://youtu.be/NqJLUjJMY-s
+
 Aula 6 - Grafos
 
 Aula 7 - Árvores
