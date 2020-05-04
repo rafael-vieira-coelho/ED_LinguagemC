@@ -27,3 +27,5 @@ Aula 7 - Algoritmos de Busca em Grafos
 https://youtu.be/8MYfrzPPMcc
 
 Aula 8 - Árvores
+
+https://youtu.be/UzFtE8h702A
